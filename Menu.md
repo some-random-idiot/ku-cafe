@@ -4,9 +4,9 @@
 
 | Item           | Price |
 | :------------- | ----: |
-| Scrambled Eggs | 150 ฿ |
-| Fried rice     |  50 ฿ |
 | Black coffee   |  60 ฿ |
+| Fried rice     |  50 ฿ |
+| Scrambled Eggs | 150 ฿ |
 
 ## Lunch
 

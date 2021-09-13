@@ -2,7 +2,7 @@
 
 ## [Menu](Menu.md)
 
-**TODO**: add hyperlinks **one per line** to each section of the Menu. Remove this TODO.
+[Lunch](Menu.md#Lunch)
 
 
 ## About Us
@@ -11,4 +11,4 @@
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Your name | Your menu | @your_github_id |
+| Sirawcih Tumtamai | Lunch | @wave49192 |

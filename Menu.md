@@ -1,24 +1,20 @@
 # KU Cafe Menu
 
-
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+| Item           | Price |
+| :------------- | ----: |
+| Scrambled Eggs | 150 ฿ |
+| Fried rice     |  50 ฿ |
+| Black coffee   |  60 ฿ |
 
-## Lunch 
-
+## Lunch
 
 ## Dinner
 
-
 ## Night Food
 
-
 ## Beverages
-
-
 
 ---
 

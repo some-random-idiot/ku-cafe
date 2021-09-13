@@ -3,7 +3,6 @@
 ## [Menu](Menu.md)
 [Beverages Menu](Menu.md#Beverages)
 
-
 ## About Us
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|

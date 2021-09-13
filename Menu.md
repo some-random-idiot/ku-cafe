@@ -1,27 +1,18 @@
 # KU Cafe Menu
 
-
 ## Breakfast
 
+    Item                           Price
+    Fried Grasshoppers (terrible)  -10
+    (use proper Markdown formatting, not literal text like this)
 
-## Lunch 
-
+## Lunch
 
 ## Dinner
 
-
 ## Night Food
 
-| Item                     | Price   |
-|:-------------------------|---------|
-|    Low-fat greek yogurt  | 49 Baht |
-|    Donut                 | 29 Baht |
-|    Milkshakes            | 39 Baht |
-|    Hot Dogs              | 39 Baht |
-
 ## Beverages
-
-
 
 ---
 

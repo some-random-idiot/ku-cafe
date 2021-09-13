@@ -8,9 +8,10 @@
 ## Dinner
 | Item          | Price |
 |:--------------|------:|
+|Cheese cake   | 80 Baht |
 | Grill salmon with rice | 600 Baht |
 | Soft drink    | 15 Baht |
-| Cheese cake   | 80 Baht |
+
 
 ## Lunch
 

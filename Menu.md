@@ -14,10 +14,11 @@
 
 | Item                     | Price   |
 |:-------------------------|---------|
-|    Low-fat greek yogurt  | 49 Baht |
 |    Donut                 | 29 Baht |
-|    Milkshakes            | 39 Baht |
 |    Hot Dogs              | 39 Baht |
+|    Low-fat greek yogurt  | 49 Baht |
+|    Milkshakes            | 39 Baht |
+
 
 ## Beverages
 

@@ -1,8 +1,7 @@
 # KU Cafe
 
 ## [Menu](Menu.md)
-
-**TODO**: add hyperlinks **one per line** to each section of the Menu. Remove this TODO.
+[Night Food](Menu.md#night-food)
 
 
 ## About Us
@@ -11,4 +10,4 @@
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Your name | Your menu | @your_github_id |
+| Smith Tangratanawichit | Night Food | NamoSmith |

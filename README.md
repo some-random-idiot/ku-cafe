@@ -9,3 +9,6 @@
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
 | Siraphop Maepeasart | Dinner menu | @Siraphop4Nene |
+| :-------- | --------- | --------------- |
+| Your name | Your menu | @your_github_id |
+

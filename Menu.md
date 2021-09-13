@@ -4,7 +4,13 @@
 ## Breakfast
 
 
-## Lunch
+## Lunch 
+| Item| Price  |
+|---|:----------|
+| Fried Rice  | 50 Baht |
+| Fried Chicken | 25 Baht|
+|Hamburger | 30 Baht    |
+|Noodles  | 40 Baht     |
 
 
 ## Dinner

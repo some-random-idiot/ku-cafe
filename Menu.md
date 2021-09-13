@@ -1,6 +1,5 @@
 # KU Cafe Menu
 
-
 ## Breakfast
 
     Item                           Price
@@ -15,16 +14,11 @@
 | Noodles | 30 Baht    |
 | Fried Chicken | 40 Baht     |
 
-
 ## Dinner
-
 
 ## Night Food
 
-
 ## Beverages
-
-
 
 ---
 

@@ -17,8 +17,8 @@
 |     Item      |     Price     |
 | ------------- | ------------- |
 | Orange Juice  | 20 Baht       |
-| Tea           | 30 Baht       |
 | Pepsi         | 15 Baht       |
+| Tea           | 30 Baht       |
 | Water         | 10 Baht       |
 
 

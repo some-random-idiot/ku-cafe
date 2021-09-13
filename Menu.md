@@ -3,9 +3,6 @@
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
 
 ## Lunch 
 
@@ -17,7 +14,12 @@
 
 
 ## Beverages
-
+|     Item      |     Price     |
+| ------------- | ------------- |
+| Orange Juice  | 20 Baht       |
+| Tea           | 30 Baht       |
+| Pepsi         | 15 Baht       |
+| Water         | 10 Baht       |
 
 
 ---

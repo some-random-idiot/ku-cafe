@@ -9,10 +9,10 @@
 ## Lunch 
 | Item| Price  |
 |---|:----------|
-| Hamburger | 50 Baht |
-| Fried Rice | 25 Baht|
-| Noodles | 30 Baht    |
-| Fried Chicken | 40 Baht     |
+| Fried Rice  | 50 Baht |
+| Fried Chicken | 25 Baht|
+|Hamburger | 30 Baht    |
+|Noodles  | 40 Baht     |
 
 ## Dinner
 

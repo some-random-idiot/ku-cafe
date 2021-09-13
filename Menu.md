@@ -1,6 +1,8 @@
 # KU Cafe Menu
 
+
 ## Breakfast
+
 
 ## Lunch 
 | Item| Price  |
@@ -10,11 +12,21 @@
 |Hamburger | 30 Baht    |
 |Noodles  | 40 Baht     |
 
+
 ## Dinner
+
 
 ## Night Food
 
+
 ## Beverages
+|     Item      |     Price     |
+| ------------- | ------------- |
+| Orange Juice  | 20 Baht       |
+| Pepsi         | 15 Baht       |
+| Tea           | 30 Baht       |
+| Water         | 10 Baht       |
+
 
 ---
 

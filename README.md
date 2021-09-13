@@ -1,13 +1,10 @@
 # KU Cafe
 
-## [Menu](Menu.md)
-[Night Food](Menu.md#night-food)
-[Beverages Menu](Menu.md#Beverages)
-[Lunch](Menu.md#Lunch)
 ## [Menu](Menu.md)    
 - [Beverages Menu](Menu.md#Beverages)
 - [Dinner Menu](Menu.md#Dinner)  
 - [Lunch](Menu.md#Lunch)
+- [Night Food](Menu.md#night-food)
 
 ## About Us
 
